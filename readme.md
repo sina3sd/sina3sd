@@ -32,12 +32,14 @@ Passionate about automation, system reliability, and building clean architecture
 ---
 
 ## 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,selenium,docker,linux,git,postgres,redis,postman,jenkins&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,selenium,docker,linux,git,postgres,postman&perline=11" />
 
 ---
 
 ## 📊 GitHub Stats
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=Sina3sd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina3sd&layout=compact&theme=tokyonight&hide_border=true" />
 

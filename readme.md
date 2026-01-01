@@ -35,7 +35,7 @@ Passionate about automation, system reliability, and building clean architecture
 <img src="https://skillicons.dev/icons?i=python,fastapi,django,selenium,docker,linux,git,postgres,postman&perline=11" />
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sina3sd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
@@ -43,17 +43,18 @@ Passionate about automation, system reliability, and building clean architecture
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina3sd&layout=compact&theme=tokyonight&hide_border=true" />
 
----
+----->
+
 
 ## 🔥 Contribution Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sina3sd&theme=tokyonight&hide_border=true" />
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=sina3sd&theme=dracula&no-frame=true&margin-w=15&row=1" />
 
----
+----->
 <!--
 ## ✨ Top Contributed Repositories
 <img src="https://github-contributor-stats.vercel.app/api?username=Sina3sd&limit=6&theme=tokyonight" />

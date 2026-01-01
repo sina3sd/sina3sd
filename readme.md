@@ -41,7 +41,7 @@ Passionate about automation, system reliability, and building clean architecture
 <img src="https://github-readme-stats.vercel.app/api?username=Sina3sd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sina3sd&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sina3sd&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
@@ -51,7 +51,7 @@ Passionate about automation, system reliability, and building clean architecture
 ---
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Sina3sd&theme=dracula&no-frame=true&margin-w=15&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=sina3sd&theme=dracula&no-frame=true&margin-w=15&row=1" />
 
 ---
 <!--
